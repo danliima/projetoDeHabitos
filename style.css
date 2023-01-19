@@ -6,7 +6,8 @@
 
 body {
   background-color: #09090A;
-  color: white;
+  /* apenas teste, depois mudar para o branco */
+  color: red; 
   height: 100vh;
 }
 
